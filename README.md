@@ -78,5 +78,3 @@ Encourage rating and reviewing behavior with:
 * Incentives for reviewing newly added books
 
 
-
-É só pedir!
